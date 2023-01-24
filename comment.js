@@ -1,0 +1,2 @@
+//I learned a lot from these assignments particularly on how the backend recieves information in order make changes to it. Everything is necessary in order to 
+//properly have everything run smoothly. From postman to express to everything else, it facilitates the movement of information. 
